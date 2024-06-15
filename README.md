@@ -1,2 +1,2 @@
-# CodSoft
+# CODSOFT
 CodSoft Web development internship 
